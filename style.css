@@ -1,0 +1,104 @@
+#body{
+    background-image: url("math-background.jpg");
+}
+.login_div1{
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 75px;;
+    border-style: ridge;
+    border-width: 10px;
+    background-color: blanchedalmond;
+    border-radius: 15px;
+}
+.login_div2{
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 300px;
+    border-style: ridge;
+    border-width: 10px;
+    background-color: blanchedalmond;
+    border-radius: 15px;
+}
+#div_title{
+    text-align: center;
+    border-width: 10px;
+    background-color:cornsilk;
+    margin-top: -22px;
+}
+#ready{
+margin-left: 500px;
+width: 250px;
+font-size: 30px;
+border-radius: 600px;
+}
+#html{
+    scroll-behavior: smooth;
+}
+.instructions{
+    text-align: center;
+    border-style: ridge;
+    background-color: crimson;
+    color: black;
+    margin-top: 50px;
+    font-size: 20px;
+}
+#output{
+    background: rgb(238, 255, 0);
+    border-radius: 10px;
+    border-top: 10px solid #1100ff;
+    padding: 10px;
+    float:none;
+    margin-left: 290px;
+    text-align: center; 
+}
+
+.container{
+    text-align: center;
+}
+#output{
+    margin-left: 290px;
+    text-align: center;
+}
+#body2{
+    background-image: url("math-background2.jpg");
+}
+#n1{
+    color: black;
+    font-size: large;
+    background-color: white;
+}
+#n2{
+    color: black;
+    font-size: large;
+    background-color:white ;
+}
+#title2{
+    color: white;
+    background-color: black;
+}
+#player1_name{
+    color: black;
+    background-color: white;
+}
+#player2_name{
+    color: black;
+    background-color: white;
+}
+#player_question{
+    color:darkblue;
+    background-color:lightgray;
+}
+#player_answer{
+    color:darkblue;
+    background-color:lightgray;
+}
+#player1_score{
+    font-size: 20px;
+    color: black;
+    background-color: white;
+}
+#player2_score{
+    font-size: 20px;
+    color: black;
+    background-color: white;
+}
